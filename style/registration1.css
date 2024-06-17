@@ -1,0 +1,37 @@
+.topic
+{
+    padding: 20px;
+    margin-left: 170px;
+}
+form{
+    padding :20px;
+    margin-left: 170px;
+}
+label{
+    /* margin-right: 70px; */
+}
+
+select 
+{
+    width :60%;
+}
+input[type = text]
+{
+    width :60%;
+}
+input [type = date]
+{
+    width : 50%;
+
+}
+#submit
+{
+    width: 20%;
+    margin: 30px;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+/* body{
+    /* background:linear-gradient(to right,rgb(17, 89, 138),white); */
+} */

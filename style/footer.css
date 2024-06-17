@@ -1,0 +1,107 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:"poppins" ,sans-serif;
+    box-sizing:border-box;
+}
+
+body{
+    background:#eef8ff;
+}
+
+footer{
+    width:100%;
+    position: relative;
+    bottom:0;
+    background:linear-gradient(to right,#00093c,#2d0b00);
+    color:#fff;
+    padding:80px 0 30px;
+    font-size:13px;
+    line-height:20px;
+    margin-top: 3rem;
+
+}
+.row{
+    width: 85%;
+    margin:auto;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    justify-content:space-between;
+}
+
+.col{
+    flex-basis:25%;
+    padding:10px;
+
+}
+.social-icons i{
+    margin-top: 2rem;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    text-align:center;
+    line-height: 40px;
+    font-size:20px;
+    color:#000;
+    background: #fff;
+    margin-right:15px;
+    cursor:pointer;
+
+
+}
+
+#btn1{
+
+    color: green;
+    border: .3rem solid rgb(233, 203, 174);
+    font-size: 1.5rem;
+    padding: 7px 15px;
+    border-radius: 2rem;
+    cursor: pointer;
+
+}
+
+#btn1:hover{
+ color: black;
+ border:.3rem solid gold;
+ padding: 10px 19px;
+ transition: .2s all linear;
+}
+#p1{
+
+    color: white;
+    margin-top: 2rem;
+}
+
+#btn2{
+
+    color: green;
+    border: .3rem solid rgb(233, 203, 174);
+    font-size: 1.5rem;
+    padding: 7px 15px;
+   border-radius: 2rem;
+   cursor: pointer;
+}
+
+#btn2:hover{
+    color: black;
+    border:.3rem solid gold;
+    padding: 10px 19px;
+    transition: .2s all linear;
+    
+}
+.social-icons i:hover{
+
+    margin-left: 12px;
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    text-align:center;
+    line-height: 40px;
+    font-size:35px;
+    color:#000;
+    background: rgb(129, 191, 236);
+    margin-right:15px;
+    transition:.2s all linear;
+}

@@ -1,0 +1,81 @@
+img{
+
+    float : left;
+    margin-right: 10px;
+  }
+  
+  .img2
+  {
+  
+  float: right;
+  width: 80px;
+  height: 60px;
+  padding-right: 20px;
+  }
+  
+  .login
+  {
+  float: right;
+  padding: 15px;
+  font-size: 20px;
+  }
+  
+  .reg
+  {
+  float: right;
+  padding: 15px;
+  font-size: 20px;
+  padding-right: 0;
+  }
+  .nav {
+      background-color: BLACK;
+      overflow: hidden;
+      
+    }
+    .nav a {
+      float: left;
+      color: WHITE;
+      text-align: center;
+      padding: 20px 16px;
+      text-decoration: none;
+      font-size: 19px;
+    }
+    .nav a:hover {
+      background-color:PURPLE;
+      color: black;
+    }
+    .nav a.active {
+      background-color: GRAY;
+      color:WHITE;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    .search{
+      float: right;
+      display: block;
+      text-align:left;
+     padding: 14px;
+    }
+    .search .input {
+      padding: 10px;
+      font-size: 17px;
+      border: 1px solid grey;
+      float: right;
+      width: 80%;
+      background: #f1f1f1;
+    }
+    .search .button{
+      float: right;
+    
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    }
+
+  

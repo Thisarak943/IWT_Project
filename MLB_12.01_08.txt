@@ -1,0 +1,55 @@
+                                   (MLB_12.1_08, GROUP 12.1,Online Voting System for award Nomination)
+
+IT22122032-DILMANI H V N - it22122032@my.sliit.lk, 0741096881
+
+	Login Page
+        Voter Registration Page
+        Registration Page
+	User Account Page
+	Profile update page
+        Email page
+        Header
+
+IT22161406-JAYANANDA L V O R- it22161406@my.sliit.lk - 0762032676
+
+	Home Page 
+	Winners Page
+	Most Popular Artist of the Year Page
+	Update Most Popular Artist of the Year Page
+	Delete Most Popular Artist of the Year Page
+        WhatsApp Page
+
+IT22272454-NEETHILA A L N - it22272454@my.sliit.lk - 0781803792
+
+	News and Update Page
+	Contact Us Page
+	About Us Page
+	Details Page
+	Delete details of call back Page
+	Update details of call back Page
+	Header
+	
+
+IT22547156-BOPEGAMAGE C D - it22547156@my.sliit.lk - 0771874197
+
+	Candidate Page
+        Candidate Registration Page
+        Update Candidate Registration Page
+        Delete the Candidate Registration Page
+	Facebook Page
+	
+IT22221346-KANDAGE T P -it22221346@my.sliit.lk- 0717445943
+
+	Categories Page 
+	Vote Page
+	Feedback page
+	Best Artist of the Year
+        Footer Page
+ 	Best Song of the Year
+	Album of the Year
+        Most Popular Song of the Year
+        Best Visual of the Year
+
+
+	
+

@@ -1,0 +1,41 @@
+.top1
+{
+    padding : 30px;
+    margin-left : 10%;
+    float : left;
+}
+
+select
+{
+    margin-left : 1px;
+    margin-top : 53px;
+    width : 300px;
+    float : left;
+}
+.top2
+{
+    padding : 30px;
+    margin-left : 10%;
+    float : left;
+}
+input[type = text]
+{
+    padding : 5px;
+    border-radius: 5px;
+    margin-left : 1px;
+    margin-top : 50px;
+    width : 300px;
+}
+
+.image1
+{
+    width : 10%;
+    padding : 20px;
+    margin-left : 15%;
+}
+textarea{
+    padding :5px;
+    width : 45%;
+    height : 150px;
+    font-size : 16px;
+}
